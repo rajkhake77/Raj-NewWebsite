@@ -1,0 +1,18 @@
+
+h1{
+  color: red;
+  font-size: 200px;
+}
+h3:hover{
+  color: #A6B1E1;
+}
+img:hover{
+  background-color: violet;
+}
+.bacon{
+ background-color: red;
+
+}
+.broccoli{
+  background-color: blue;
+}

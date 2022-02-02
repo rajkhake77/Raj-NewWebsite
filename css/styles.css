@@ -1,0 +1,128 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  color: #424874;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #424874;
+  font-weight: normal;
+  padding-top: 10px;
+}
+
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #6867AC;
+}
+p{
+    line-height: 2;
+}
+hr{
+  border: dotted #C8D9EB 6px;
+  border-bottom: none;
+  width: 4% ;
+  margin: 100px auto;
+}
+a{
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+.copyright{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;
+}
+
+.footer-link {
+  color: #A6B1E1;
+}
+
+.top-container {
+  background-color: #F4EEFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #6867AC;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.dp {
+  max-width: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.webdev-img {
+  width: 40%;
+  float: left;
+  margin-right: 20px;
+}
+
+.dancer-img {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.btn {
+  background: #A6B1E1 ;
+  background-image: -webkit-linear-gradient(top, #A6B1E1, #A6B1E1);
+  background-image: -moz-linear-gradient(top, #A6B1E1, #A6B1E1);
+  background-image: -ms-linear-gradient(top, #A6B1E1, #A6B1E1);
+  background-image: -o-linear-gradient(top, #A6B1E1, #A6B1E1);
+  background-image: linear-gradient(to bottom, #A6B1E1, #A6B1E1);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 1px 4px #666666;
+  -moz-box-shadow: 0px 1px 4px #666666;
+  box-shadow: 0px 1px 4px #666666;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  border: solid #A6B1E1 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #27496D ;
+  text-decoration: none;
+}
